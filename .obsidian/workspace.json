@@ -95,11 +95,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 582.5
   },
   "right": {
     "id": "cc14c4c801882146",
@@ -263,7 +263,7 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "afbb700b29db7afd",
+  "active": "865f673965ebfb2f",
   "lastOpenFiles": [
     "0.Basic-Life/3.DayNote/日记/Box/Recording 20260424003216.m4a",
     "0.Basic-Life/3.DayNote/日记/Box",

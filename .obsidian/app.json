@@ -1,0 +1,9 @@
+{
+  "showLineNumber": true,
+  "attachmentFolderPath": "./Box",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "promptDelete": false,
+  "readableLineLength": false
+}

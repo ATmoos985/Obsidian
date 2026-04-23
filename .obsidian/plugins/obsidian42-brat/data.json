@@ -1,0 +1,39 @@
+{
+  "pluginList": [
+    "Ebonsignori/obsidian-at-symbol-linking",
+    "paddan/code-block-plugin",
+    "eondrcode/obsidian-i18n",
+    "mgmeyers/obsidian-copy-block-link"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Ebonsignori/obsidian-at-symbol-linking",
+      "version": "2.1.0"
+    },
+    {
+      "repo": "paddan/code-block-plugin",
+      "version": "latest"
+    },
+    {
+      "repo": "eondrcode/obsidian-i18n",
+      "version": "2.0.21"
+    },
+    {
+      "repo": "mgmeyers/obsidian-copy-block-link",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": true,
+  "allowIncompatiblePlugins": false
+}

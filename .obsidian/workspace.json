@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "98035dbe9c5379b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe56357364708fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afbb700b29db7afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Basic-Life/3.DayNote/日记/2026-04-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-23"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c3b5741ab4102e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5632f05f8e92f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91897ec5e99a1fc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0765528787d1247d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "05ff9af1981b81e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "4f9674ed5141cf81",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
+          },
+          {
+            "id": "865f673965ebfb2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "cc14c4c801882146",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d5ce9aa3cfe1ee5",
+        "type": "tabs",
+        "dimension": 68.05696846388607,
+        "children": [
+          {
+            "id": "16718ab05042ed19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "9962d48b4c250a8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "9b0833b899f030e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "fd27bb31b6117838",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5afa33bc2261836d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Basic-Life/3.DayNote/日记/2026-04-23.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-04-23 的大纲"
+            }
+          },
+          {
+            "id": "0697c8bce110e8d4",
+            "type": "leaf",
+            "state": {
+              "type": "hinote-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "HiNote"
+            }
+          },
+          {
+            "id": "bcd2f38105e48183",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "0.Basic-Life/3.DayNote/日记/2026-04-23.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "2985cbdcae7e784d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "d32a7c77373d3c7d",
+        "type": "tabs",
+        "dimension": 31.943031536113935,
+        "children": [
+          {
+            "id": "8fd6943a6a4f05a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "templates:插入模板": false,
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian42-brat:BRAT": false,
+      "notebook-navigator:笔记本导航器": false,
+      "i18n:common.i18n": false,
+      "hi-note:HiNote": false
+    }
+  },
+  "active": "afbb700b29db7afd",
+  "lastOpenFiles": [
+    "0.Basic-Life/3.DayNote/日记/Box/Recording 20260424003216.m4a",
+    "0.Basic-Life/3.DayNote/日记/Box",
+    "0.Basic-Life/3.DayNote/日记/2026-04-24.md",
+    "4.Study-Exam/1. 408/0. 数据结构算法/Notes-Algorithm.md",
+    "4.Study-Exam/1. 408/2. 计算机组成原理/笔记/1. 概述/Box/概述.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/1. 计算机网络体系结构/计算机网络体系结构.md",
+    "3.Code/3.求解器",
+    "3.Code/2.开发",
+    "3.Code/1.算法",
+    "2.AI/1. 工作流",
+    "2.AI/1. VibeCoding/未命名",
+    "2.AI/1. VibeCoding",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/1. 计算机网络体系结构/1. 分层结构.md",
+    "4.Study-Exam/0. 学习规划/1. 学习规划.md",
+    "4.Study-Exam/0. 学习规划/0. 学习路线.canvas",
+    "4.Study-Exam/0. 学习规划/0. StudyKanBan.md",
+    "任务板.md",
+    "4.Study-Exam/1. 408/3. 操作系统/操作系统（OS）.md",
+    "4.Study-Exam/1. 408/2. 计算机组成原理/计算机组成原理.md",
+    "4.Study-Exam/1. 408/2. 计算机组成原理/Notes-JZ.md",
+    "4.Study-Exam/1. 408/1. 数据结构/Notes-DS.md",
+    "4.Study-Exam/3. Code/1. Java/Java.canvas",
+    "4.Study-Exam/3. Code/1. Java/Note/2. 开发技巧.md",
+    "4.Study-Exam/3. Code/1. Java/Note/1. 学习笔记.md",
+    "4.Study-Exam/3. Code/1. Java/Box/Pasted image 20260326104151.png",
+    "4.Study-Exam/4. 论文/笔记/1. Attention Is All You Need.md",
+    "4.Study-Exam/4. 论文/1. Attention Is All You Need.canvas",
+    "Box/Recording 20260424000142.m4a",
+    "Box",
+    "未命名.base",
+    "1.PDF-Note/贝叶斯网络和 BayesLab.md",
+    "1.PDF-Note/aps.md",
+    "1.PDF-Note/任务板.md",
+    "0.Basic-Life/2.mix/4. Github.md",
+    "0.Basic-Life/5.MacOS/3. Mac快捷键.md",
+    "0.Basic-Life/5.MacOS/1. 相关命令.md",
+    "0.Basic-Life/5.MacOS/0. 快捷键.md",
+    "0.Basic-Life/2.mix/3. Google号.md",
+    "0.Basic-Life/2.mix/1. SUPAY（海外卡）.md",
+    "0.Basic-Life/2.mix/2. 账户密码.md",
+    "0.Basic-Life/2.mix/0. 公司报销（未来佰泽）.md",
+    "未命名.canvas",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/5. 万维网.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/5. 万维网-3.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/5. 万维网-2.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/5. 万维网-1.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/4. 电子邮件-1.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/4. 电子邮件.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/4. 电子邮件-2.png",
+    "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/3. FTP.png"
+  ]
+}

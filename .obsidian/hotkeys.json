@@ -87,14 +87,6 @@
       "key": "V"
     }
   ],
-  "editor:insert-mathblock": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "`"
-    }
-  ],
   "editor:insert-footnote": [
     {
       "modifiers": [

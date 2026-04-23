@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 学习规划",
+      "path": "4.Study-Exam/0. 学习规划/1. 学习规划.md"
+    },
+    {
+      "basename": "0. StudyKanBan",
+      "path": "4.Study-Exam/0. 学习规划/0. StudyKanBan.md"
+    },
+    {
+      "basename": "0. 快捷键",
+      "path": "0.Basic-Life/5.MacOS/0. 快捷键.md"
+    },
+    {
+      "basename": "贝叶斯网络和 BayesLab",
+      "path": "1.PDF-Note/贝叶斯网络和 BayesLab.md"
+    },
+    {
       "basename": "2026-04-23",
       "path": "0.Basic-Life/3.DayNote/日记/2026-04-23.md"
     },
@@ -25,16 +41,8 @@
       "path": "4.Study-Exam/1. 408/4. 计算机网络/笔记/1. 计算机网络体系结构/1. 分层结构.md"
     },
     {
-      "basename": "1. 学习规划",
-      "path": "4.Study-Exam/0. 学习规划/1. 学习规划.md"
-    },
-    {
       "basename": "0. 学习路线",
       "path": "4.Study-Exam/0. 学习规划/0. 学习路线.canvas"
-    },
-    {
-      "basename": "0. StudyKanBan",
-      "path": "4.Study-Exam/0. 学习规划/0. StudyKanBan.md"
     },
     {
       "basename": "任务板",
@@ -75,10 +83,6 @@
     {
       "basename": "理解深度学习",
       "path": "Pdf/计算机/理解深度学习.pdf"
-    },
-    {
-      "basename": "贝叶斯网络和 BayesLab",
-      "path": "1.PDF-Note/贝叶斯网络和 BayesLab.md"
     },
     {
       "basename": "贝叶斯网络和 BayesLab",

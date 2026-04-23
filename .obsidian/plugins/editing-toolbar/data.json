@@ -387,6 +387,11 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "Workplace Fullscreen",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "app:open-another-vault",
+      "name": "打开仓库…",
+      "icon": "vault"
     }
   ],
   "followingCommands": [],

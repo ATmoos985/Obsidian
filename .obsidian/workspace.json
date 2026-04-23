@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 431.5
   },
   "right": {
     "id": "cc14c4c801882146",
@@ -263,8 +263,10 @@
       "hi-note:HiNote": false
     }
   },
-  "active": "2985cbdcae7e784d",
+  "active": "865f673965ebfb2f",
   "lastOpenFiles": [
+    "0.Basic-Life/1.模版/月记模板.md",
+    "0.Basic-Life/3.DayNote/月记",
     "4.Study-Exam/0. 学习规划/0. StudyKanBan.md",
     "0.Basic-Life/5.MacOS/0. 快捷键.md",
     "4.Study-Exam/2. 数一",
@@ -296,7 +298,6 @@
     "4.Study-Exam/3. Code/1. Java/Box/Pasted image 20260326104151.png",
     "4.Study-Exam/4. 论文/笔记/1. Attention Is All You Need.md",
     "4.Study-Exam/4. 论文/1. Attention Is All You Need.canvas",
-    "Box/Recording 20260424000142.m4a",
     "1.PDF-Note/aps.md",
     "1.PDF-Note/任务板.md",
     "0.Basic-Life/2.mix/4. Github.md",

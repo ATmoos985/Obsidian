@@ -1,0 +1,27 @@
+{
+  "domain": "cubox.pro",
+  "apiKey": "aqOt6qdHHsF",
+  "folderFilter": [],
+  "typeFilter": [],
+  "statusFilter": [],
+  "isRead": true,
+  "isStarred": true,
+  "isAnnotated": true,
+  "tagsFilter": [],
+  "syncFrequency": 30,
+  "targetFolder": "Cubox",
+  "filenameTemplate": "{{{title}}}-{{{create_time}}}",
+  "frontMatterVariables": [
+    "id",
+    "cubox_url",
+    "url",
+    "tags"
+  ],
+  "contentTemplate": "# {{{title}}}\n\n{{{description}}}\n\n[Read in Cubox]({{{cubox_url}}})  \n[Read Original]({{{url}}})  \n\n---\n\n{{#highlights.length}}\n## Annotations  \n\n{{#highlights}}\n> {{{text}}}  \n\n{{#note}}\n{{{note}}}\n{{/note}}\n[Link️]({{{cubox_url}}})  \n\n{{/highlights}}\n{{/highlights.length}}",
+  "highlightInContent": true,
+  "dateFormat": "yyyy-MM-dd",
+  "lastSyncTime": 0,
+  "lastSyncCardId": null,
+  "lastCardUpdateTime": null,
+  "syncing": false
+}

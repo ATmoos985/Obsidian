@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "1. 学习规划",
-      "path": "4.Study-Exam/0. 学习规划/1. 学习规划.md"
+      "basename": "“我”是谁",
+      "path": "0.Basic-Life/4.Myself/“我”是谁.md"
     },
     {
       "basename": "0. StudyKanBan",
       "path": "4.Study-Exam/0. 学习规划/0. StudyKanBan.md"
     },
     {
+      "basename": "1. 学习规划",
+      "path": "4.Study-Exam/0. 学习规划/1. 学习规划.md"
+    },
+    {
+      "basename": "aps",
+      "path": "1.PDF-Note/aps.md"
+    },
+    {
       "basename": "0. 快捷键",
       "path": "0.Basic-Life/5.MacOS/0. 快捷键.md"
     },
     {
+      "basename": "1. 特殊命令",
+      "path": "0.Basic-Life/5.MacOS/1. 特殊命令.md"
+    },
+    {
+      "basename": "2. 账户密码",
+      "path": "0.Basic-Life/2.mix/2. 账户密码.md"
+    },
+    {
+      "basename": "4. Github",
+      "path": "0.Basic-Life/2.mix/4. Github.md"
+    },
+    {
+      "basename": "3. Google号",
+      "path": "0.Basic-Life/2.mix/3. Google号.md"
+    },
+    {
+      "basename": "1. SUPAY（海外卡）",
+      "path": "0.Basic-Life/2.mix/1. SUPAY（海外卡）.md"
+    },
+    {
+      "basename": "0. 公司报销（未来佰泽）",
+      "path": "0.Basic-Life/2.mix/0. 公司报销（未来佰泽）.md"
+    },
+    {
+      "basename": "印占",
+      "path": "0.Basic-Life/4.Myself/0.命理/印占.md"
+    },
+    {
+      "basename": "紫薇",
+      "path": "0.Basic-Life/4.Myself/0.命理/紫薇.md"
+    },
+    {
+      "basename": "八字",
+      "path": "0.Basic-Life/4.Myself/0.命理/八字.md"
+    },
+    {
+      "basename": "0.如何创建自己的网站并维护",
+      "path": "3.Code/4.技术宅/0.如何创建自己的网站并维护.md"
+    },
+    {
       "basename": "贝叶斯网络和 BayesLab",
       "path": "1.PDF-Note/贝叶斯网络和 BayesLab.md"
+    },
+    {
+      "basename": "1.Mcp",
+      "path": "2.AI/2.AI常识/1.Mcp.md"
+    },
+    {
+      "basename": "任务板",
+      "path": "任务板.md"
     },
     {
       "basename": "2026-04-23",
@@ -45,10 +101,6 @@
       "path": "4.Study-Exam/0. 学习规划/0. 学习路线.canvas"
     },
     {
-      "basename": "任务板",
-      "path": "任务板.md"
-    },
-    {
       "basename": "操作系统（OS）",
       "path": "4.Study-Exam/1. 408/3. 操作系统/操作系统（OS）.md"
     },
@@ -71,30 +123,6 @@
     {
       "basename": "贝叶斯网络和 BayesLab",
       "path": "Pdf/计算机/贝叶斯网络和 BayesLab.pdf"
-    },
-    {
-      "basename": "aps",
-      "path": "1.PDF-Note/aps.md"
-    },
-    {
-      "basename": "4. Github",
-      "path": "0.Basic-Life/2.mix/4. Github.md"
-    },
-    {
-      "basename": "3. Google号",
-      "path": "0.Basic-Life/2.mix/3. Google号.md"
-    },
-    {
-      "basename": "1. SUPAY（海外卡）",
-      "path": "0.Basic-Life/2.mix/1. SUPAY（海外卡）.md"
-    },
-    {
-      "basename": "2. 账户密码",
-      "path": "0.Basic-Life/2.mix/2. 账户密码.md"
-    },
-    {
-      "basename": "0. 公司报销（未来佰泽）",
-      "path": "0.Basic-Life/2.mix/0. 公司报销（未来佰泽）.md"
     },
     {
       "basename": "Code模版",

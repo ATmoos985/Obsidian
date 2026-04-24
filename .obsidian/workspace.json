@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fe56357364708fdf",
+        "id": "92905de9f7d86a0b",
         "type": "tabs",
         "children": [
           {
-            "id": "afbb700b29db7afd",
+            "id": "66b236fe483bbee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Study-Exam/0. 学习规划/1. 学习规划.md",
+                "file": "0.Basic-Life/4.Myself/“我”是谁.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 学习规划"
+              "title": "“我”是谁"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f747d230e687e9dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4754e909cfa1016",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "1.PDF-Note/aps.md"
+              },
+              "icon": "lucide-file",
+              "title": "aps"
             }
           }
         ]
@@ -33,22 +51,16 @@
       {
         "id": "f5632f05f8e92f58",
         "type": "tabs",
+        "dimension": 30.093071354705277,
         "children": [
           {
-            "id": "91897ec5e99a1fc4",
+            "id": "8fd6943a6a4f05a9",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -69,6 +81,31 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "491b41939eae47a9",
+        "type": "tabs",
+        "dimension": 69.90692864529473,
+        "children": [
+          {
+            "id": "91897ec5e99a1fc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -95,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -108,7 +145,6 @@
       {
         "id": "8d5ce9aa3cfe1ee5",
         "type": "tabs",
-        "dimension": 68.05696846388607,
         "children": [
           {
             "id": "16718ab05042ed19",
@@ -178,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Study-Exam/0. 学习规划/1. 学习规划.md",
+                "file": "0.Basic-Life/4.Myself/“我”是谁.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. 学习规划 的大纲"
+              "title": "“我”是谁 的大纲"
             }
           },
           {
@@ -203,7 +239,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "4.Study-Exam/0. 学习规划/1. 学习规划.md"
+                "file": "0.Basic-Life/4.Myself/“我”是谁.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -221,27 +257,10 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "d32a7c77373d3c7d",
-        "type": "tabs",
-        "dimension": 31.943031536113935,
-        "children": [
-          {
-            "id": "8fd6943a6a4f05a9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,52 +279,52 @@
       "obsidian42-brat:BRAT": false,
       "notebook-navigator:笔记本导航器": false,
       "i18n:common.i18n": false,
-      "hi-note:HiNote": false
+      "hi-note:HiNote": false,
+      "cubox-sync:Cubox": false
     }
   },
-  "active": "865f673965ebfb2f",
+  "active": "2985cbdcae7e784d",
   "lastOpenFiles": [
-    "0.Basic-Life/1.模版/月记模板.md",
-    "0.Basic-Life/3.DayNote/月记",
     "4.Study-Exam/0. 学习规划/0. StudyKanBan.md",
+    "4.Study-Exam/0. 学习规划/1. 学习规划.md",
+    "5.Web/3.Cubox",
+    "1.PDF-Note/aps.md",
     "0.Basic-Life/5.MacOS/0. 快捷键.md",
-    "4.Study-Exam/2. 数一",
+    "0.Basic-Life/5.MacOS/1. 特殊命令.md",
+    "0.Basic-Life/2.mix/2. 账户密码.md",
+    "0.Basic-Life/2.mix/4. Github.md",
+    "0.Basic-Life/2.mix/3. Google号.md",
+    "0.Basic-Life/2.mix/1. SUPAY（海外卡）.md",
+    "0.Basic-Life/2.mix/0. 公司报销（未来佰泽）.md",
+    "0.Basic-Life/4.Myself/0.命理/印占.md",
+    "0.Basic-Life/4.Myself/0.命理/紫薇.md",
+    "0.Basic-Life/4.Myself/0.命理/未命名",
+    "0.Basic-Life/4.Myself/0.命理/八字.md",
+    "0.Basic-Life/4.Myself/“我”是谁.md",
+    "0.Basic-Life/4.Myself/0.命理",
+    "0.Basic-Life/5.MacOS/3. Mac快捷键.md",
+    "3.Code/4.技术宅/0.如何创建自己的网站并维护.md",
     "1.PDF-Note/贝叶斯网络和 BayesLab.md",
+    "2.AI/2.AI常识/1.Mcp.md",
+    "3.Code/4.技术宅",
+    "任务板.md",
+    "2.AI/2.AI常识",
+    "5.Web/4.Claude",
+    "5.Web/3.Chatgpt",
+    "5.Web/2.Chrome",
+    "5.Web/1.Obsidian",
+    "5.Web",
+    "0.Basic-Life/1.模版/月记模板.md",
     "0.Basic-Life/3.DayNote/日记/2026-04-23.md",
-    "0.Basic-Life/3.DayNote/日记/Box/Recording 20260424003216.m4a",
-    "0.Basic-Life/3.DayNote/日记/Box",
     "0.Basic-Life/3.DayNote/日记/2026-04-24.md",
     "4.Study-Exam/1. 408/0. 数据结构算法/Notes-Algorithm.md",
     "4.Study-Exam/1. 408/2. 计算机组成原理/笔记/1. 概述/Box/概述.png",
     "4.Study-Exam/1. 408/4. 计算机网络/笔记/1. 计算机网络体系结构/计算机网络体系结构.md",
-    "3.Code/3.求解器",
-    "3.Code/2.开发",
-    "3.Code/1.算法",
-    "2.AI/1. 工作流",
-    "2.AI/1. VibeCoding/未命名",
-    "2.AI/1. VibeCoding",
     "4.Study-Exam/1. 408/4. 计算机网络/笔记/1. 计算机网络体系结构/1. 分层结构.md",
-    "4.Study-Exam/0. 学习规划/1. 学习规划.md",
     "4.Study-Exam/0. 学习规划/0. 学习路线.canvas",
-    "任务板.md",
-    "4.Study-Exam/1. 408/3. 操作系统/操作系统（OS）.md",
-    "4.Study-Exam/1. 408/2. 计算机组成原理/计算机组成原理.md",
-    "4.Study-Exam/1. 408/2. 计算机组成原理/Notes-JZ.md",
-    "4.Study-Exam/1. 408/1. 数据结构/Notes-DS.md",
     "4.Study-Exam/3. Code/1. Java/Java.canvas",
-    "4.Study-Exam/3. Code/1. Java/Note/2. 开发技巧.md",
-    "4.Study-Exam/3. Code/1. Java/Note/1. 学习笔记.md",
     "4.Study-Exam/3. Code/1. Java/Box/Pasted image 20260326104151.png",
-    "4.Study-Exam/4. 论文/笔记/1. Attention Is All You Need.md",
     "4.Study-Exam/4. 论文/1. Attention Is All You Need.canvas",
-    "1.PDF-Note/aps.md",
-    "1.PDF-Note/任务板.md",
-    "0.Basic-Life/2.mix/4. Github.md",
-    "0.Basic-Life/5.MacOS/3. Mac快捷键.md",
-    "0.Basic-Life/5.MacOS/1. 相关命令.md",
-    "0.Basic-Life/2.mix/3. Google号.md",
-    "0.Basic-Life/2.mix/1. SUPAY（海外卡）.md",
-    "0.Basic-Life/2.mix/2. 账户密码.md",
     "未命名.canvas",
     "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/5. 万维网.png",
     "4.Study-Exam/1. 408/4. 计算机网络/笔记/6. 应用层/Box/5. 万维网-3.png",

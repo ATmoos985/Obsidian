@@ -5,6 +5,19 @@
       "ctime": 1776960868131,
       "items": [],
       "title": "AI"
+    },
+    {
+      "type": "group",
+      "ctime": 1776966209954,
+      "items": [
+        {
+          "type": "url",
+          "ctime": 1776966219415,
+          "url": "https://csdiy.wiki/",
+          "title": "CS自学指南"
+        }
+      ],
+      "title": "Code"
     }
   ]
 }

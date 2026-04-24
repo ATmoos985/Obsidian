@@ -32,5 +32,6 @@
   "code-block-plugin",
   "at-symbol-linking",
   "hi-note",
-  "obsidian-git"
+  "obsidian-git",
+  "cubox-sync"
 ]

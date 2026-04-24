@@ -103,10 +103,10 @@
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
-      "enabled": false
+      "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false,
+      "enabled": true,
       "include-blank-line-between-footnotes": false
     },
     "re-index-footnotes": {
@@ -119,7 +119,7 @@
       "extra-auto-correct-files": []
     },
     "blockquote-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "space"
     },
     "convert-bullet-list-markers": {
@@ -153,28 +153,28 @@
       "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphenated-line-breaks": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
-      "enabled": false,
-      "style": "consistent"
+      "enabled": true,
+      "style": "asterisk"
     },
     "two-spaces-between-lines-with-content": {
       "enabled": false,
       "line-break-indicator": "  "
     },
     "unordered-list-style": {
-      "enabled": false,
-      "list-style": "consistent"
+      "enabled": true,
+      "list-style": "-"
     },
     "compact-yaml": {
       "enabled": false,
@@ -268,7 +268,7 @@
       "enabled": false
     },
     "remove-multiple-blank-lines-on-paste": {
-      "enabled": false
+      "enabled": true
     }
   },
   "lintOnSave": false,

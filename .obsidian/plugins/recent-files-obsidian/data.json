@@ -5,16 +5,16 @@
       "path": "0.Basic-Life/4.Myself/“我”是谁.md"
     },
     {
+      "basename": "aps",
+      "path": "1.PDF-Note/aps.md"
+    },
+    {
       "basename": "0. StudyKanBan",
       "path": "4.Study-Exam/0. 学习规划/0. StudyKanBan.md"
     },
     {
       "basename": "1. 学习规划",
       "path": "4.Study-Exam/0. 学习规划/1. 学习规划.md"
-    },
-    {
-      "basename": "aps",
-      "path": "1.PDF-Note/aps.md"
     },
     {
       "basename": "0. 快捷键",
